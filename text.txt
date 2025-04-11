@@ -1,4 +1,5 @@
-// command: date -u >> text.txt
-
+// command: date -u "+%Y-%m-%d %H:%M:%S" >> text.txt 
 2024年 7月 3日 水曜日 07時47分40秒 UTC
 2024年 7月 3日 水曜日 07時49分03秒 UTC
+#午後
+2025-04-11 01:31:45
